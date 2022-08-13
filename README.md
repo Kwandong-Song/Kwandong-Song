@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello World!%20🙋&fontSize=50&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=HelloWorld!%20🙋&fontSize=50&animation=twinkling)
 
 <h2 align="center"> Hello😁, I'm Kwandong Song! 🤪</h2>
 <h3 align="center">I am junior developer who love development</h3>
@@ -14,9 +14,9 @@
 </p>
 
 <h3 align="center">💾 DataBase Tech Stack 💾</h3>
-  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-  <img src="https://img.shields.io/badge/Tibero-007396?style=flat&logo=Tibero&logoColor=white"/></a>&nbsp
 <p align="center">
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Tibero-007396?style=flat&logo=Tibero&logoColor=white"/></a>&nbsp
 </p>
 
 <h3 align="center">🎆 Front Tech Stack 🎆</h3>
