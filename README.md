@@ -1,19 +1,25 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello World!%20🙋&fontSize=50&animation=twinkling)
 
-<h3 align="center">🍳 Back Tech Stack 🍳</h3>
+<h2 align="center"> Hello😁, I'm Kwandong Song! 🤪</h2>
+<h3 align="center">I am junior developer who love development</h3>
+<p align="center">
+  🇰🇷
+</p>
+
+<h3 align="center">🗄 Back Tech Stack 🗄</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/ES6-ffb13b?style=flat&logo=javascript&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=Spring&logoColor=white"/></a>&nbsp
 </p>
 
-<h3 align="center">💽 DataBase Tech Stack 💽</h3>
-  <img src="https://img.shields.io/badge/PostgreSQL-007396?style=flat&logo=Java&logoColor=white"/></a>&nbsp
+<h3 align="center">💾 DataBase Tech Stack 💾</h3>
+  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+  <img src="https://img.shields.io/badge/Tibero-007396?style=flat&logo=Tibero&logoColor=white"/></a>&nbsp
 <p align="center">
 </p>
 
-
-<h3 align="center">📺 Front Tech Stack 📺</h3>
+<h3 align="center">🎆 Front Tech Stack 🎆</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/HTML-00599C?style=flat&logo=html5&logoColor=white"/></a>&nbsp
