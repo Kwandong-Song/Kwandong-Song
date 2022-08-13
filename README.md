@@ -1,7 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hellow World!%20!🙋🏻‍♂️%20render&fontSize=50&animation=twinkling)
-
-### Hi there 👋
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello World!%20🙋&fontSize=50&animation=twinkling)
 
 <h3 align="center">🍳 Back Tech Stack 🍳</h3>
 <p align="center">
@@ -11,6 +8,7 @@
 </p>
 
 <h3 align="center">💽 DataBase Tech Stack 💽</h3>
+  <img src="https://img.shields.io/badge/PostgreSQL-007396?style=flat&logo=Java&logoColor=white"/></a>&nbsp
 <p align="center">
 </p>
 
